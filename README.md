@@ -6,7 +6,7 @@ The `INITCAP` function is a user-defined function (UDF) in SQL Server that trans
 ## Features
 - Converts the first character of the input string to uppercase.
 - Converts the rest of the string to lowercase.
-- Handles strings up to 30 characters in length.
+- Handles strings up to MAX characters in length.
 
 ## Prerequisites
 - Microsoft SQL Server
